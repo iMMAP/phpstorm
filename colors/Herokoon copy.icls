@@ -565,6 +565,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="1a1a1a" />
+        <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff4427" />
