@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="pred" value="print(&quot;&lt;pre&gt;&quot;);&#10;print_r($var$);&#10;print(&quot;&lt;pre/&gt;&quot;);" description="print and die" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
