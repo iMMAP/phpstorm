@@ -4,7 +4,7 @@
     <property name="created">2018-01-04T09:03:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-04T14:36:34</property>
+    <property name="modified">2018-01-04T16:50:14</property>
     <property name="originalScheme">Laracasts Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -23,7 +23,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
     <option name="DOCUMENTATION_COLOR" value="292d33" />
-    <option name="FILESTATUS_ADDED" value="b1b3" />
+    <option name="FILESTATUS_ADDED" value="4eba36" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ef6733" />
@@ -41,7 +41,7 @@
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="b1b3" />
-    <option name="GUTTER_BACKGROUND" value="24282d" />
+    <option name="GUTTER_BACKGROUND" value="292d33" />
     <option name="INDENT_GUIDE" value="343941" />
     <option name="INFORMATION_HINT" value="292d33" />
     <option name="LINE_NUMBERS_COLOR" value="4b525d" />
@@ -141,7 +141,7 @@
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_COMMENT">
@@ -152,13 +152,13 @@
     </option>
     <option name="BLADE_DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="58d33d" />
+        <option name="FOREGROUND" value="eb1813" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FOREGROUND" value="c2fd90" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
@@ -774,7 +774,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="f6f212" />
+        <option name="FOREGROUND" value="e2e25b" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -863,14 +863,15 @@
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b1b3" />
-        <option name="EFFECT_COLOR" value="676767" />
+        <option name="EFFECT_COLOR" value="92a1b6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
+        <option name="FOREGROUND" value="c77e0d" />
         <option name="EFFECT_COLOR" value="f49810" />
-        <option name="ERROR_STRIPE_COLOR" value="f49810" />
+        <option name="ERROR_STRIPE_COLOR" value="e5910f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1209,22 +1210,22 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FOREGROUND" value="c2fd90" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FOREGROUND" value="b78cd0" />
       </value>
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="c0ccdb" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="b1b3" />
+        <option name="FOREGROUND" value="eb1813" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1318,6 +1319,12 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="c0ccdb" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="98d5d6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -3391,7 +3398,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c0ccdb" />
-        <option name="BACKGROUND" value="292d33" />
+        <option name="BACKGROUND" value="24282c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
