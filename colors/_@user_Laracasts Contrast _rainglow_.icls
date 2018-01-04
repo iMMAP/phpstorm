@@ -4,11 +4,11 @@
     <property name="created">2018-01-04T09:03:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-04T11:34:48</property>
+    <property name="modified">2018-01-04T14:36:34</property>
     <property name="originalScheme">Laracasts Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -141,24 +141,24 @@
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="BLADE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="76818e" />
+        <option name="FOREGROUND" value="656f7a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="b1b3" />
+        <option name="FOREGROUND" value="58d33d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="98d5d6" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
