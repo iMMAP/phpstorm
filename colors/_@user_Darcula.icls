@@ -3,7 +3,7 @@
     <property name="created">2018-01-03T08:28:25</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-04T09:11:25</property>
+    <property name="modified">2018-01-04T11:34:48</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -13,7 +13,7 @@
     <option name="FILESTATUS_HIJACKED" value="ef6733" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a58163" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="98d5d6" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="b1b3" />
