@@ -1,0 +1,5 @@
+<keymap version="1" name="My Keymaps" parent="$default">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+</keymap>
