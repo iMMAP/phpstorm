@@ -2,4 +2,10 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
 </keymap>
