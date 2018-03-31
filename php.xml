@@ -431,4 +431,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="5eb12d73-17f3-437d-a199-be5099677da2" load_method="CUSTOM_LOADER" custom_loader_path="/home/vagrant/code/project/vendor/phpunit" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
 </application>
