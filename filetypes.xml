@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="htm" approved="true" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping ext="snar" type="PLAIN_TEXT" />
-      <mapping ext="htm" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Twig" />
+      <mapping ext="htm" type="Twig" />
     </extensionMap>
   </component>
 </application>
