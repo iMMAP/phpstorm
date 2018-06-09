@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.0.1-2018.1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="98d5d6" />
     <option name="highlightColorEnabled" value="true" />
@@ -8,5 +8,6 @@
     <option name="accentColor" value="84ffff" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="userId" value="524fdd48:163e5000a01:-7fff" />
   </component>
 </application>
