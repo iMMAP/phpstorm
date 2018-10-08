@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="assets" />
     <option name="defaultScopeName" value="assets" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="assets" />
   </component>
 </application>
