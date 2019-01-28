@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="yabasha" parent="$default">
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
   </action>
