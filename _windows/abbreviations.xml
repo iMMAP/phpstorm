@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ShowColorPicker">
+        <abbreviation name="cp" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
