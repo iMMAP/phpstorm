@@ -1,11 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="5eb12d73-17f3-437d-a199-be5099677da2" name="Vagrant PHP 7.2" home="ssh://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.10.10" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="C:\Users\yabas\.ssh\id_rsa" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php7.2" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Vagrant PHP 7.2">
@@ -94,10 +87,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="5eb12d73-17f3-437d-a199-be5099677da2" custom_loader_path="/home/vagrant/code/project/vendor/autoload.php" phpunit_phar_path="" />
-    </phpunit_settings>
   </component>
 </application>

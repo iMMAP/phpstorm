@@ -9,10 +9,5 @@
     <instances />
     <lookup />
   </component>
-  <component name="Instance" id="cfa4e72d-04c1-491c-b693-841027f668f0" version="6.3" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="GoToAction" timestamp="2019-01-30T12:15:07.407Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
+  <component name="Instance" id="cfa4e72d-04c1-491c-b693-841027f668f0" version="8.0.101" />
 </application>
