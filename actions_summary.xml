@@ -5,8 +5,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581241911259" />
-              <option name="times" value="1" />
+              <option name="last" value="1581242117951" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -15,6 +15,14 @@
             <ActionSummary>
               <option name="last" value="1581241847447" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581242132318" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
