@@ -45,8 +45,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507935240" />
-              <option name="times" value="17" />
+              <option name="last" value="1581515241185" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507920048" />
-              <option name="times" value="9" />
+              <option name="last" value="1581515236962" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="DatabaseView.CloseConnectionAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581510273062" />
-              <option name="times" value="10" />
+              <option name="last" value="1581514014240" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581512121866" />
-              <option name="times" value="403" />
+              <option name="last" value="1581513772985" />
+              <option name="times" value="409" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495405933" />
-              <option name="times" value="19" />
+              <option name="last" value="1581515239001" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -450,6 +450,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Git.Fetch">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581514456370" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Pull">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581514467952" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
@@ -557,8 +573,8 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581511998398" />
-              <option name="times" value="10" />
+              <option name="last" value="1581515023207" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,8 +645,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503305766" />
-              <option name="times" value="5" />
+              <option name="last" value="1581514053845" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +797,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503286418" />
-              <option name="times" value="3" />
+              <option name="last" value="1581514055043" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +821,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581412705382" />
-              <option name="times" value="2" />
+              <option name="last" value="1581514548810" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -830,6 +846,22 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581248196890" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$CompareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581514545080" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581515247886" />
               <option name="times" value="4" />
             </ActionSummary>
           </value>
