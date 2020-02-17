@@ -5,8 +5,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1581492116548" />
-              <option name="times" value="5" />
+              <option name="last" value="1581926385326" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581699940644" />
-              <option name="times" value="132" />
+              <option name="last" value="1581926460088" />
+              <option name="times" value="133" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="Console.Jdbc.Execute">
           <value>
             <ActionSummary>
-              <option name="last" value="1581602919078" />
-              <option name="times" value="3" />
+              <option name="last" value="1581926024124" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -178,19 +178,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="DatabaseView.AddActionGroupPopup">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581925849651" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="DatabaseView.CloseConnectionAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581514014240" />
-              <option name="times" value="12" />
+              <option name="last" value="1581926000234" />
+              <option name="times" value="16" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="DatabaseView.PropertiesAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926002218" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="DatabaseView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598768554" />
-              <option name="times" value="4" />
+              <option name="last" value="1581926381010" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +221,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581699972159" />
-              <option name="times" value="711" />
+              <option name="last" value="1581926022190" />
+              <option name="times" value="712" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +237,8 @@
         <entry key="EditorChooseLookupItemReplace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698235819" />
-              <option name="times" value="76" />
+              <option name="last" value="1581926020744" />
+              <option name="times" value="77" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +277,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581602676916" />
-              <option name="times" value="202" />
+              <option name="last" value="1581926020545" />
+              <option name="times" value="203" />
             </ActionSummary>
           </value>
         </entry>
@@ -490,6 +506,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="FileChooser.GotoHome">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581925929547" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Find">
           <value>
             <ActionSummary>
@@ -501,8 +525,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581533780679" />
-              <option name="times" value="16" />
+              <option name="last" value="1581926316409" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -566,6 +590,30 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581427270739" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="MarkAsContentRoot">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926297233" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="MarkExcludeRoot">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926309586" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="MarkSourceRoot">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926258577" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -738,6 +786,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="UnmarkTestSourceRoot">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926304279" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
@@ -786,11 +842,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.database.dataSource.LocalDataSourceManager$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581925854966" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.diagnostic.WindowsDefenderFixAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581697151746" />
-              <option name="times" value="1" />
+              <option name="last" value="1581925823404" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +981,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581603633419" />
-              <option name="times" value="75" />
+              <option name="last" value="1581926345139" />
+              <option name="times" value="79" />
             </ActionSummary>
           </value>
         </entry>
@@ -959,6 +1023,22 @@
             <ActionSummary>
               <option name="last" value="1581514548810" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$12">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926232858" />
+              <option name="times" value="58" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581926223937" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
