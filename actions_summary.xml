@@ -693,8 +693,8 @@
         <entry key="OpenFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582028379854" />
-              <option name="times" value="3" />
+              <option name="last" value="1582028459856" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -871,6 +871,14 @@
             <ActionSummary>
               <option name="last" value="1581925823404" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.docker.DockerFileDetector$Notifier$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582028455702" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
