@@ -69,8 +69,8 @@
         <entry key="ChangesView.AddUnversioned">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191294331" />
-              <option name="times" value="3" />
+              <option name="last" value="1582193506525" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="ChangesView.ShowCommitOptions">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191327379" />
-              <option name="times" value="6" />
+              <option name="last" value="1582193525842" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191303248" />
-              <option name="times" value="30" />
+              <option name="last" value="1582193502783" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +405,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191359617" />
-              <option name="times" value="467" />
+              <option name="last" value="1582193571927" />
+              <option name="times" value="468" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +565,8 @@
         <entry key="Git.Configure.Remotes">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191347756" />
-              <option name="times" value="3" />
+              <option name="last" value="1582193539866" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="Git.Init">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191282986" />
-              <option name="times" value="2" />
+              <option name="last" value="1582193464944" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,16 +645,16 @@
         <entry key="MarkAsContentRoot">
           <value>
             <ActionSummary>
-              <option name="last" value="1582189729227" />
-              <option name="times" value="3" />
+              <option name="last" value="1582193478376" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="MarkExcludeRoot">
           <value>
             <ActionSummary>
-              <option name="last" value="1582189738793" />
-              <option name="times" value="6" />
+              <option name="last" value="1582193484583" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +733,8 @@
         <entry key="OpenFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582128691099" />
-              <option name="times" value="8" />
+              <option name="last" value="1582193424694" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191365648" />
-              <option name="times" value="11" />
+              <option name="last" value="1582193604101" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1117,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581514055043" />
-              <option name="times" value="4" />
+              <option name="last" value="1582193418404" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1149,8 +1149,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1582191358156" />
-              <option name="times" value="2" />
+              <option name="last" value="1582193569594" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
