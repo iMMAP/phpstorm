@@ -229,8 +229,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582183123214" />
-              <option name="times" value="844" />
+              <option name="last" value="1582189746825" />
+              <option name="times" value="845" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +549,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582092960295" />
-              <option name="times" value="21" />
+              <option name="last" value="1582189751994" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,16 +621,16 @@
         <entry key="MarkAsContentRoot">
           <value>
             <ActionSummary>
-              <option name="last" value="1582028542518" />
-              <option name="times" value="2" />
+              <option name="last" value="1582189729227" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="MarkExcludeRoot">
           <value>
             <ActionSummary>
-              <option name="last" value="1582098079357" />
-              <option name="times" value="5" />
+              <option name="last" value="1582189738793" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -978,6 +978,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582189747175" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
@@ -1053,8 +1061,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582110786781" />
-              <option name="times" value="82" />
+              <option name="last" value="1582189770485" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
