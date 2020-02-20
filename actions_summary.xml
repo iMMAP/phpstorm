@@ -162,6 +162,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CompareClipboardWithSelection">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582206311540" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Console.Jdbc.Execute">
           <value>
             <ActionSummary>
@@ -357,8 +365,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582182316700" />
-              <option name="times" value="454" />
+              <option name="last" value="1582206180784" />
+              <option name="times" value="455" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +421,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196092741" />
-              <option name="times" value="937" />
+              <option name="last" value="1582206178455" />
+              <option name="times" value="948" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +805,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582203180880" />
-              <option name="times" value="410" />
+              <option name="last" value="1582206354674" />
+              <option name="times" value="412" />
             </ActionSummary>
           </value>
         </entry>
@@ -1101,8 +1109,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582189770485" />
-              <option name="times" value="84" />
+              <option name="last" value="1582206350179" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
