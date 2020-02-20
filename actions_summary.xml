@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582183107934" />
-              <option name="times" value="155" />
+              <option name="last" value="1582190538477" />
+              <option name="times" value="158" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="ChangesView.AddUnversioned">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031429702" />
-              <option name="times" value="2" />
+              <option name="last" value="1582191294331" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,16 +93,24 @@
         <entry key="ChangesView.ShowCommitOptions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581248486395" />
-              <option name="times" value="4" />
+              <option name="last" value="1582191327379" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CheckinFiles">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191075216" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581699989355" />
-              <option name="times" value="24" />
+              <option name="last" value="1582191303248" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +237,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582189746825" />
-              <option name="times" value="845" />
+              <option name="last" value="1582191086904" />
+              <option name="times" value="846" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +293,8 @@
         <entry key="EditorDelete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582183122033" />
-              <option name="times" value="195" />
+              <option name="last" value="1582190632943" />
+              <option name="times" value="197" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,16 +405,16 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582183061264" />
-              <option name="times" value="465" />
+              <option name="last" value="1582191359617" />
+              <option name="times" value="467" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582182248782" />
-              <option name="times" value="911" />
+              <option name="last" value="1582190632017" />
+              <option name="times" value="934" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +549,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582180296754" />
-              <option name="times" value="99" />
+              <option name="last" value="1582190899445" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
@@ -554,11 +562,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Git.Configure.Remotes">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191347756" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
               <option name="last" value="1581514456370" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Init">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191282986" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +797,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582188595374" />
-              <option name="times" value="396" />
+              <option name="last" value="1582190721528" />
+              <option name="times" value="401" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +829,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582182504304" />
-              <option name="times" value="267" />
+              <option name="last" value="1582190667508" />
+              <option name="times" value="270" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,16 +861,16 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581699999704" />
-              <option name="times" value="10" />
+              <option name="last" value="1582191365648" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Vcs.QuickListPopupAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581494228766" />
-              <option name="times" value="3" />
+              <option name="last" value="1582191146460" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -854,6 +878,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581427219809" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.ToggleAmendCommitMode">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191061092" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -925,8 +957,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582182912683" />
-              <option name="times" value="93" />
+              <option name="last" value="1582190902157" />
+              <option name="times" value="94" />
             </ActionSummary>
           </value>
         </entry>
@@ -1026,6 +1058,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.notification.NotificationAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191268851" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
           <value>
             <ActionSummary>
@@ -1103,6 +1143,22 @@
             <ActionSummary>
               <option name="last" value="1582098440649" />
               <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191358156" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191273891" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
