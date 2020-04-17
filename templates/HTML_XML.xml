@@ -1,0 +1,7 @@
+<templateSet group="HTML/XML">
+  <template name="AIC" value="AIC&lt;span&gt;&amp;&lt;/span&gt;P" description="AIC&amp;P" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
