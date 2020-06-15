@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="192.168.10.10" id="c604442a-88b8-4b19-9bff-ef21c9ab38ed" keyPath="C:\Users\yabas\.ssh\id_rsa" port="22" username="vagrant" />
+      <sshConfig host="192.168.20.20" id="49a5474c-a165-4db9-acd4-63850faf7fd0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>
